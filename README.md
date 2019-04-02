@@ -1,1 +1,15 @@
-# welcome
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+<a href="index.html"><img src="images/seoul.jpg"height="100" width="200"alt="seoul"></a>
+<a href=index.html"><img src="images/Love-locks.jpg"height="200" width="350"alt="seoul love"></a>
+<a href=index.html"><img src="images/Love-locks.jpg"height="200" width="350"alt="seoul love"></a>
+<a href=index.html"><img src="images/Love-locks.jpg"height="200" width="350"alt="seoul love"></a>
+</body>
+</html>
